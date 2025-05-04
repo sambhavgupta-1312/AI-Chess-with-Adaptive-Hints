@@ -1,0 +1,5 @@
+__pycache__
+chess/.gitignore
+chess/board_state.txt
+chess/__init__.py
+res
